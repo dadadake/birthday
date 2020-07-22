@@ -34,18 +34,18 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "漂亮的崽崽": "./imgs/xiaokeai.png",
+        "漂亮的崽崽": "./imgs/漂亮的崽崽.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "快 戳我",
-        play: "music",
-        bannar_coming: "要不 在戳一下",
-        balloons_flying: "好像少点东西 来吧展示",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "想给你说的话",
+        turn_on: "嘘 开始啦",
+        play: "music走起",
+        bannar_coming: "快来再戳戳我",
+        balloons_flying: "好像少点东西 来叭展示",
+        cake_fadein: "呐 蛋糕给你",
+        light_candle: "蜡烛点上",
+        wish_message: "生日快乐崽崽",
+        story: "我想给你说的话",
     }
 };
